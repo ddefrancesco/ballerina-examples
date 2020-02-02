@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "authenticateClient",
+			"path": "/Users/ddefrancesco/workspace-ballerina/wso2is-connector/authenticateClient"
+		},
+		{
+			"name": "httpClient",
+			"path": "/Users/ddefrancesco/workspace-ballerina/wso2is-connector/httpClient"
+		},
+		{
+			"path": "/Users/ddefrancesco/workspace-ballerina/modules"
+		},
+		{
+			"path": "/Users/ddefrancesco/workspace-ballerina/wso2is-connector"
+		}
+	]
+}
